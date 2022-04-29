@@ -1,0 +1,9 @@
+[submodule "haproxy-logs-container"]
+	path = haproxy-logs-container
+	url = https://github.com/abhishekshree/haproxy-logs-container
+[submodule "BLOB-containers-poc"]
+	path = BLOB-containers-poc
+	url = https://github.com/abhishekshree/BLOB-containers-poc
+[submodule "logstash-container"]
+	path = logstash-container
+	url = https://github.com/abhishekshree/logstash-container

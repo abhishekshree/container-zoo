@@ -7,3 +7,6 @@
 [submodule "logstash-container"]
 	path = logstash-container
 	url = https://github.com/abhishekshree/logstash-container
+[submodule "down-detector"]
+	path = down-detector
+	url = https://github.com/abhishekshree/down-detector
